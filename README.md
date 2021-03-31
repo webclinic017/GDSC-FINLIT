@@ -1,16 +1,44 @@
-# FinLit
+# FinLit | AZUKI
+## A MOBILE APPLICATION USING FLUTTER
 
-A new Flutter project.
+``` ==========================
+```
 
-## Getting Started
+##### FinLit is an app designed to promote quality financial education and instill financial literacy among its users in an engaging manner. The application follows a game-based learning approach to teach users financial literacy.
 
-This project is a starting point for a Flutter application.
+# NOTE
+- This project works best on Flutter 1.22.6, other than that (later versions), it would cause the project to not run and work. Please consider downgrading.
+- To get the best experience, run the program on an Android Emulator Pixel_3a_xl or any devices with 1080 x 2160 resolution.
+- Please follow the installation guide below.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- FinLit Game where it teaches users the concepts of financial literacy through a game-based approach.
+- Stock Market Simulation where users can play around the stock market using virtual money.
+- Info Corner where users get to see up-to-date news from local and global events.
+- Forum where users can become part of a community that aims to promote financial education.
+
+## Tech
+
+FinLit uses two Google tech to work properly:
+
+- [FLUTTER] - framework used to build applications in a single codebase.
+- [FIREBASE AUTH] - a back-end technology used to authenticate users.
+
+## Installation
+
+1. Clone the github repo: 
+```
+git clone https://github.com/veribal/FINLIT_AZUKI.git
+```
+
+2. Inside asset/images folder, you should not see a file named "prologue12 v4.gif". If you do not see the file, please download it here ``` https://drive.google.com/file/d/1Sh4eumC59Kjo_I9C3Nirmjutzoi8-Ejp/view?usp=sharing ```
+
+3. After downloading the prologue12 v4.gif file from my google drive, put that inside asset/images folder.
+
+4. Run ```flutter pub get```
+
+5. Run ```flutter run```
+
+6. If you're not redirected to homepage after logging in using gmail or even after creating an account this is due to our firebase setup, we are still learning), please perform ```hot rrestart```. This should redirect you to home.
