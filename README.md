@@ -33,7 +33,7 @@ FinLit uses two Google tech to work properly:
 git clone https://github.com/veribal/FINLIT_AZUKI.git
 ```
 
-2. Inside asset/images folder, you should not see a file named "prologue12 v4.gif". If you do not see the file, please download it here ``` https://drive.google.com/file/d/1Sh4eumC59Kjo_I9C3Nirmjutzoi8-Ejp/view?usp=sharing ```
+2. Inside assets/images folder, you should not see a file named "prologue12 v4.gif". If you do not see the file, please download it here  https://drive.google.com/file/d/1Sh4eumC59Kjo_I9C3Nirmjutzoi8-Ejp/view?usp=sharing
 
 3. After downloading the prologue12 v4.gif file from my google drive, put that inside asset/images folder.
 
