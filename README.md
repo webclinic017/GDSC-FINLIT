@@ -30,7 +30,7 @@ FinLit uses two Google tech to work properly:
 
 1. Clone the github repo: 
 ```
-git clone https://github.com/veribal/FINLIT_AZUKI.git
+https://github.com/hansel-cmd/GDSC-FINLIT.git
 ```
 
 2. Inside assets/images folder, you should not see a file named "prologue12 v4.gif". If you do not see the file, please download it here  https://drive.google.com/file/d/1Sh4eumC59Kjo_I9C3Nirmjutzoi8-Ejp/view?usp=sharing
