@@ -35,10 +35,10 @@ https://github.com/hansel-cmd/GDSC-FINLIT.git
 
 2. Inside assets/images folder, you should not see a file named "prologue12 v4.gif". If you do not see the file, please download it here  https://drive.google.com/file/d/1Sh4eumC59Kjo_I9C3Nirmjutzoi8-Ejp/view?usp=sharing
 
-3. After downloading the prologue12 v4.gif file from my google drive, put that inside assets/images folder.
+3. After downloading the <em>prologue12 v4.gif</em> file from my google drive, put that inside assets/images folder.
 
 4. Run ```flutter pub get```
 
 5. Run ```flutter run```
 
-6. If you're not redirected to homepage after logging in using gmail or even after creating an account this is due to our firebase setup, we are still learning), please perform ```hot restart```. This should redirect you to home.
+6. If you're not redirected to homepage after logging in using gmail or even after creating an account this is due to our firebase setup (as we are still learning), please perform ```hot restart```. This should redirect you to home.
