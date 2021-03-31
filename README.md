@@ -14,7 +14,7 @@
 
 ## Features
 
-- FinLit Game where it teaches users the concepts of financial literacy through a game-based approach.
+- FinLit Game entitled Phantasia where it teaches users the concepts of financial literacy through a game-based approach.
 - Stock Market Simulation where users can play around the stock market using virtual money.
 - Info Corner where users get to see up-to-date news from local and global events.
 - Forum where users can become part of a community that aims to promote financial education.
