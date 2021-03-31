@@ -41,4 +41,4 @@ git clone https://github.com/veribal/FINLIT_AZUKI.git
 
 5. Run ```flutter run```
 
-6. If you're not redirected to homepage after logging in using gmail or even after creating an account this is due to our firebase setup, we are still learning), please perform ```hot rrestart```. This should redirect you to home.
+6. If you're not redirected to homepage after logging in using gmail or even after creating an account this is due to our firebase setup, we are still learning), please perform ```hot restart```. This should redirect you to home.
